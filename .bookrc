@@ -1,0 +1,22 @@
+{
+  "name": "The Good Girl",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets",
+  "book_id": 1024,
+  "book_url": "https://bubblin.io/book/the-good-girl-by-anonymous"
+}
