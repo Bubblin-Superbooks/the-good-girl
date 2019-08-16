@@ -1,15 +1,11 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0001m.jpg\">0001m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0001m.jpg"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0004m.jpg\">0004m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0004m.jpg"
   },
   {
     "tag": "hr",
@@ -28,8 +24,8 @@
     "innerHtml": "She has learned to read so well, and she is so good a girl, that her father has given her several  new books, which she reads in by herself, whenever she likes; and she understands all that is in them."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0006m.jpg\">0006m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0006m.jpg"
   },
   {
     "tag": "hr",
@@ -52,8 +48,8 @@
     "innerHtml": "When she wants to know any thing, she asks her father, or her mother, to tell her; and she tries to understand, and to remember  what they tell her; but if they do not think proper to answer her questions, she does not tease them, but says, \"When I am older, they will perhaps instruct me;\" and she thinks about something else."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0009m.jpg\">0009m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0009m.jpg"
   },
   {
     "tag": "hr",
@@ -68,8 +64,8 @@
     "innerHtml": "She takes care of her own clothes, and folds them up very neatly. She knows exactly where she puts them; and, I believe, she could find them even in the dark. When she sees a hole in her stockings, or in her frock, or any of her clothes, she mends it, or asks her mother to have it mended; she does not wait till the hole is very large; for she remembers what her mother has told her, that \"A stitch in time saves nine.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0011m.jpg\">0011m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0011m.jpg"
   },
   {
     "tag": "hr",
@@ -80,8 +76,8 @@
     "innerHtml": "She does not like to waste any thing. She is unwilling to throw away or burn crumbs of bread, or peelings of fruit, or little bits of muslin, linen, or silk; for she has seen the chickens and the little birds picking up crumbs, and the pigs feeding upon the peelings of fruit; and she has seen the ragman go about gathering rags,  which he sells to people to make paper of."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0012m.jpg\">0012m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0012m.jpg"
   },
   {
     "tag": "hr",
@@ -96,8 +92,8 @@
     "innerHtml": "When she goes with her mother, into the kitchen, and the dairy, she takes notice of every thing she sees; but she does not meddle with any thing, without leave. She knows  how puddings, tarts, butter, and bread, are made."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0013m.jpg\">0013m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0013m.jpg"
   },
   {
     "tag": "hr",
@@ -112,16 +108,16 @@
     "innerHtml": "If all little girls would be so attentive and industrious, how they would delight their parents and their kind friends! and they would be much happier themselves, than when they are obstinate, or idle, or ill humoured, and will not learn any thing properly, nor mind what is said to them."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0015m.jpg\">0015m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0015m.jpg"
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "<Em>pleasures  Of Walking In The Fields</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>PLEASURES  OF WALKING IN THE FIELDS</em></p>"
   },
   {
     "tag": "p",
@@ -161,11 +157,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "That hangs down its pale yellow"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "head,"
+    "innerHtml": "That hangs down its pale yellow head,"
   },
   {
     "tag": "p",
@@ -192,8 +184,8 @@
     "innerHtml": "And the violet with beautiful  hue."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0017m.jpg\">0017m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0017m.jpg"
   },
   {
     "tag": "hr",
@@ -205,11 +197,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "And the roses that sweeten the"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "breeze;"
+    "innerHtml": "And the roses that sweeten the breeze;"
   },
   {
     "tag": "p",
@@ -229,11 +217,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "And who made these delicate flow-"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ers?"
+    "innerHtml": "And who made these delicate flowers?"
   },
   {
     "tag": "p",
@@ -241,11 +225,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "And refreshes the fields with his"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "showers?"
+    "innerHtml": "And refreshes the fields with his showers?"
   },
   {
     "tag": "p",
@@ -280,16 +260,12 @@
     "innerHtml": "And some to my sister and brother."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0018m.jpg\">0018m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0018m.jpg"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/0020m.jpg\">0020m </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-good-girl/master/assets/images/0020m.jpg"
   },
   {
     "tag": "hr",
